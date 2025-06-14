@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 100vh;
+    display: flex;
+   
+}
+img{
+    height: 300px;
+    padding: 30px;
+}
+.text{
+  
+    padding: 30px;
+}
+.top{
+    line-height: 25px;
+}
+.top p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.mid{
+    display: flex;
+    gap: 400px;
+    line-height: 40px;
+}
+span{
+    padding: 10px;
+}
+.bottom{
+    margin-top: 20px;
+    line-height: 25px;
+}
